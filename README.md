@@ -88,9 +88,9 @@ Consider files order v1.csv and order v2.csv which has the content as follows:<b
 
 | Order ID | Order Name        | Name      | Price | Created Date |
 |----------|-------------------|-----------|-------|--------------|
-| 1        | iPhone 13         | Arun      | 75000 | 12-12-2023   |
-| 11       | iPhone 13         | Shrivarsha | 50000 | 13-12-2023   |
-| 12       | Samsung S23 Ultra | Shrinidi  | 80000 | 14-12-2023   |
+| 1        | iPhone 12         | Arun      | 50000 | 12-12-2023   |
+| 11       | iPhone 12         | Shrivarsha | 50000 | 13-12-2023   |
+| 12       | Samsung S23       | Shrinidi  | 80000 | 14-12-2023   |
 | 13       | Samsung Earpods   | Skanda    | 5000  | 15-12-2023   |
 | 2        | iPhone 14 Pro Max | Skanda    | 85000 | 16-12-2023   |
 | 14       | Samsung Earpods   | Arun      | 5002  | 17-12-2023   |
